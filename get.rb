@@ -19,6 +19,6 @@ end
   5.times do |j|
     span = 0.02
     size = 640
-    get(i, j, span, size)
+    get(i, j)
   end
 end
